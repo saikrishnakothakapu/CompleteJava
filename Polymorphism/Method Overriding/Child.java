@@ -3,6 +3,10 @@
 public class Child extends Parent  {
     private String schoolName;
 
+    /* Constructor to initialize name, age and schoolName
+     * Calls the Parent class constructor to initialize name and age
+     */
+
     public Child(String name, int age, String schoolName) {
         super(name, age);
         this.schoolName = schoolName;

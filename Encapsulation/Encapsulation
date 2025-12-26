@@ -1,0 +1,29 @@
+Encapsulation in Java
+****************************************
+
+Encapsulation is one of the core principles of Object-Oriented Programming in Java.
+It means wrapping data (variables) and the methods that operate on that data into a single unit (class) and restricting direct access to the data.
+
+-> In Java, encapsulation is achieved by:
+
+  -- Declaring class variables as private
+
+  -- Providing controlled access using public methods (getters and setters)
+
+-> Encapsulation helps to:
+
+   -- Protect data from unauthorized access
+
+   -- Enforce validation and business rules
+
+   -- Improve code maintainability and flexibility
+
+   -- Reduce dependency between classes
+
+By using encapsulation, the internal implementation of a class is hidden, and only the required functionality is exposed to the outside world.
+
+*****************************************
+
+-> One-line summary (optional)
+
+Encapsulation is the process of hiding internal data and providing controlled access to it through methods.
